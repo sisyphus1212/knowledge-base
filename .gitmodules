@@ -1,0 +1,15 @@
+[submodule "sdn-network"]
+	path = technical/sdn-network
+	url = git@github.com:sisyphus1212/sdn-network.git
+[submodule "technical/sdn-network"]
+	path = technical/sdn-network
+	url = git@github.com:sisyphus1212/sdn-network.git
+[submodule "technical/linux-kernel"]
+	path = technical/linux-kernel
+	url = git@github.com:sisyphus1212/linux-kernel.git
+[submodule "technical/linux-development"]
+	path = technical/linux-development
+	url = git@github.com:sisyphus1212/linux-development.git
+[submodule "technical/hardware-peripherals"]
+	path = technical/hardware-peripherals
+	url = git@github.com:sisyphus1212/hardware-peripherals.git
