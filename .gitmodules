@@ -13,3 +13,6 @@
 [submodule "technical/hardware-peripherals"]
 	path = technical/hardware-peripherals
 	url = git@github.com:sisyphus1212/hardware-peripherals.git
+[submodule ".images_base"]
+	path = .images_base
+	url = git@github.com:sisyphus1212/images.git
